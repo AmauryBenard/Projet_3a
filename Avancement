@@ -1,5 +1,8 @@
 #Avancement 
 
 Seance 1 :
-Installation de VS code, juce et création d'une premiere version sur python
+Installation de Visual Studio, juce et création d'une premiere version sur python
+
+Je vais d'abord me focaliser sur le développement d'un effet audio puis si tout ce se passe bien je continuerais sur un plugin prenant du midi en entré (synthé)
+
 
